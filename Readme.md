@@ -1,4 +1,4 @@
-Nama     : Umi Solihah <br>
+Nama</t>: Umi Solihah <br>
 NIM      : 19.11.2747 <br>
 Kelas    : 19 Informatika-03
 
