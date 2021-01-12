@@ -1,6 +1,6 @@
-## Nama     : Umi Solihah
-## NIM      : 19.11.2747
-## Kelas    : 19 Informatika-03
+Nama     : Umi Solihah
+NIM      : 19.11.2747
+Kelas    : 19 Informatika-03
 
 ## MnT Cafe
 Aplikasi ini digunakan untuk membeli sebuah makanan dengan menerapkan MVC.
