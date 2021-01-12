@@ -1,6 +1,6 @@
-# Umi Solihah<br>
-# 19.11.2747<br>
-# 19-Informatika-03
+### Umi Solihah<br>
+### 19.11.2747<br>
+### 19-Informatika-03
 
 ## MnT Cafe
 Aplikasi ini digunakan untuk membeli sebuah makanan dengan menerapkan MVC.
