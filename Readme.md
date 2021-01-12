@@ -1,5 +1,4 @@
-### Umi Solihah<br>
-### 19.11.2747<br>
+### Umi Solihah (19.11.2747)<br>
 ### 19-Informatika-03
 
 ## MnT Cafe
